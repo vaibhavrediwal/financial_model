@@ -4,7 +4,7 @@ Here’s a draft for the README file for your financial model project on Asian P
 
 ---
 
-# **Financial Model of Asian Paints (Jul’24-Aug’24)**
+# **Financial Model of Asian Paints )**
 
 ## **Project Overview**
 
@@ -47,19 +47,6 @@ This project involves a comprehensive financial analysis of Asian Paints, coveri
 - **Industry Reports**: For market and competitor analysis.
 - **Financial Databases**: For accessing financial statements and market data.
 
-## **How to Use This Model**
-
-1. **Download the Financial Model**: Ensure you have all the required data files and Excel sheets.
-2. **Navigate the Excel File**:
-   - **Input Sheet**: Enter new data or update existing data for financial ratios, earnings projections, etc.
-   - **Analysis Sheets**: Review calculated ratios, projections, and comparison metrics.
-3. **Review Findings**: Go through the conclusion and peer comparison sheets for a summary of the analysis.
-
-## **Future Enhancements**
-
-- Integration of advanced statistical models for more accurate earning projections.
-- Inclusion of macroeconomic indicators to better understand market influences.
-- Automation of data inputs and ratio calculations for real-time analysis.
 
 ---
 
